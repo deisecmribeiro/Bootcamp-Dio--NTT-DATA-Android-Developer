@@ -1,0 +1,14 @@
+Em 08/04/2022 criei meu primeiro repositório.Compartilharei aqui o título 
+dos módulos já concluídos e irei atualizando no decorrer do curso:
+---------------------------------------------------------------------
+Uma Contadora de Formação em busca de uma verddeira mudança de Profissão
+---------------------------------------------------------------------
+1 - Boas Vindas;
+2 - Lógica de Programação Essencial;
+3 - Aprenda o que são Estrutura de Dados e Algoritmos;
+4 - Introdução ao Git e GitHub;
+5 - Trabalhando com Braches no GitHub;
+6 - Projetor ágeis com SUCRUM;
+7 - Pensamentos Computacionais;
+8 - Primeiros passos para Começar a Programar;
+9 - Criando seu primeiro repositório no GitHub;
